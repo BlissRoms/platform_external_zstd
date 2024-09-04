@@ -119,7 +119,6 @@ cc_library {
     product_available: true,
     recovery_available: true,
     vendor_available: true,
-    product_available: true,
     system_ext_specific: true,
     host_supported: true,
     native_bridge_supported: true,
